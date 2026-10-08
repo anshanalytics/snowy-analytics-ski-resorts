@@ -149,16 +149,16 @@ Summer Skiing Resorts  = CALCULATE(DISTINCTCOUNT(Resorts[ID]), Resorts[Summer sk
 4. Click **Load** and explore the dashboard.
 
 ```
-├── SNOWY_ANALYTICS.pbit
 ├── README.md
-└── images/Snowy Analytics.png
+├── SNOWY_ANALYTICS.pbit
+└── Snowy Analytics.png
 ```
 
 ---
 
 ## Dashboard Preview
 
-![Snowy Analytics Dashboard](images/Snowy%20Analytics.png)
+![Snowy Analytics Dashboard](Snowy%20Analytics.png)
 
 ---
 
